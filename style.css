@@ -1,4 +1,9 @@
 .paragraph{
   background-color: #971111; 
   color: black;
+} 
+
+.picture{
+  height: 500px;
+  width: 450px;
 }
